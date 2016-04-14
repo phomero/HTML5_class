@@ -158,7 +158,7 @@ p {
   }
 }
 /********** mobile devices only **********/
-@media (max-width: 761px) {
+@media (max-width: 767px) {
   .col-lw-1, .col-lw-2, .col-lw-3, .col-lw-4, .col-lw-5, .col-lw-6, .col-lw-7, .col-lw-8, .col-lw-9, .col-lw-10, .col-lw-11, .col-lw-12 {
    float: left;
    position: relative;
